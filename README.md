@@ -2,5 +2,6 @@
 
 Demonstration of Git branches and merge conflict resolution
 
-Project status: Updated in main branch.
+Feature branch: Added new project information.
 
+Project status: Updated in both branches.
